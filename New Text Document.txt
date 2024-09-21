@@ -1,0 +1,7 @@
+echo "# i-q" >> README.md
+git init wow and alkhaldi
+git add README.md
+git commit -m "first commit"
+git branch -M main 
+git remote add origin https://github.com/gujadd/glg.git
+git push -u origin main by ynayr 
